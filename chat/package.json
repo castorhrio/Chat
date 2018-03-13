@@ -1,0 +1,16 @@
+{
+  "name": "chat",
+  "version": "1.0.0",
+  "description": "the chat room server",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "henry xu",
+  "license": "MIT",
+  "dependencies": {
+    "jquery": "^1.11.0",
+    "mime": "~1.2.7",
+    "socket.io": "~0.9.6"
+  }
+}
